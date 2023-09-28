@@ -18,4 +18,4 @@
 | juanxxi2015     |        |    |
 | camilo-152000   |        |    |
 | samuelviviescas |        |    |
-| julian.riascos1 |        |    |
+| julian.riascos1 |    1   |    |
