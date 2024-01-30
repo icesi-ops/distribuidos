@@ -6,16 +6,17 @@
   - https://www.terminaltutor.com/
   - https://www.learnshell.org/
 
-| Ingeniero       | Puntos | PR |
-|-----------------|--------|----|
-| bjuan210302     |        |    |
-| alejo.co80      |        |    |
-| pipe1402        |        |    |
-| gavo2403        |        |    |
-| duvantft        |        |    |
-| danna.garcia1   |        |    |
-| kamcak          |        |    |
-| juanxxi2015     |        |    |
-| camilo-152000   |        |    |
-| samuelviviescas |        |    |
-| julian.riascos1 |        |    |
+| Ingeniero       	| Puntos | PR |
+|----------------------	|--------|----|
+| bjuan210302     	|        |    |
+| alejo.co80      	|        |    |
+| pipe1402        	|        |    |
+| gavo2403        	|        |    |
+| duvantft        	|        |    |
+| danna.garcia1   	|        |    |
+| kamcak          	|        |    |
+| juanxxi2015     	|        |    |
+| camilo-152000   	|        |    |
+| samuelviviescas 	|        |    |
+| julian.riascos1 	|        |    |
+| DanielRamirez1901	|        |    |
