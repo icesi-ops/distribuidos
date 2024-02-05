@@ -19,4 +19,8 @@
 | camilo-152000   |        |    |
 | samuelviviescas |        |    |
 | julian.riascos1 |        |    |
+<<<<<<< HEAD
 | nicolasg1911	  |	   |    |
+=======
+| nicolasg1911	  |	   |	|
+>>>>>>> 1ae974b11f4966d0ed83f137eb342bcf5aad40e0
